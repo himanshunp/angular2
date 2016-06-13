@@ -1,2 +1,4 @@
 bootstrap editors
 http://www.cssauthor.com/bootstrap-editors/
+
+http://getbootstrap.com/customize/
